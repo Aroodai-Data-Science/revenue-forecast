@@ -1,5 +1,7 @@
 # Demonstrating simple time series methods for forecasting daily revenue in a retail store.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aroodai-Data-Science/revenue-forecast/main)
+
 This repository contains our notebook demonstrating simple time series forecasting using the ARIMA-GARCH model on daily sales recorded at the ION Orchard branch of Havaiianas. The notebook is `revenue-forecast.ipynb` but you may jump to it by clicking on [this link](https://github.com/aroodai/revenue-forecast/blob/main/revenue-forecast.ipynb).
 
 ## Data
