@@ -1,0 +1,4 @@
+statsmodels==0.12.1
+arch
+xlrd==1.2.0
+seaborn
